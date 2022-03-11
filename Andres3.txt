@@ -1,3 +1,7 @@
 agregando contenido a Andres 3
 segundo cambio
+<<<<<<< HEAD
 tercer cambio
+=======
+Hola! Estoy editando el txt de Andres tres. Escribiendo texto con sentido...
+>>>>>>> 914f6a0f95e1e7c80a6fc2b50dfdfa4eaad48b6b
